@@ -1,0 +1,20 @@
+{
+    "valid" : {
+      "name" : "Lalitpur",
+      "country" : "Nepal",
+      "state" : "Bagmati",
+      "city" : "Godawari",
+      "address" : "Nayatole Road",
+      "zip_code" : "977Code",
+      "phone" : "9988776655",
+      "fax" : "225577",
+      "note" : "This is the note"
+
+    },
+    "invalid" : {
+      "max_length" : "This is the maximum of 256 length test This is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis i",
+      "phone" : "9841abcd",
+      "fax" : "abcd1234",
+      "country" : "-- Select --"
+    }
+  }

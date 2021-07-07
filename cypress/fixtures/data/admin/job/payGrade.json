@@ -1,0 +1,12 @@
+{
+    "valid" : {
+      "name" : "Grade",
+      "currency" : "MUR - Mauritius Rupee",
+      "min_salary" : "50000",
+      "max_salary": "60000"
+    },
+    "invalid" : {
+      "neg_min_salary" : "-20",
+      "max_salary" : "9999999999"
+    }
+}

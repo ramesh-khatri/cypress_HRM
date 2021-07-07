@@ -1,0 +1,22 @@
+{
+    "valid" : {
+      "org_name" : "AppleHR",
+      "phone" : "016655245",
+      "email" : "appleHR@hrm.com",
+      "address_one": "Lalitpur",
+      "city" : "Godawari",
+      "zip_code" : "01Code",
+      "note" : "This is my note",
+      "tax_id" : "124536789",
+      "registration_no" : "6578945test",
+      "fax" : "454565",
+      "address_two" : "Kathmandu",
+      "state" : "Bagmati",
+      "country" : "Turkey"
+    },
+    "invalid" : {
+      "phone" : "123abcde",
+      "email" : "myemail_invalid.com",
+      "fax" : "123abcd"
+    }
+}

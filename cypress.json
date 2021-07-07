@@ -1,0 +1,51 @@
+{
+  "baseUrl": null,
+  "env": {
+    "devUrl": "https://opensource-demo.orangehrmlive.com/"
+
+  },
+  "ignoreTestFiles": "/pageobjects/*.js",
+  "numTestsKeptInMemory": 1,
+  "port": null,
+
+  "watchForFileChanges": false,
+  "defaultCommandTimeout": 4000,
+  "execTimeout": 60000,
+  "taskTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 5000,
+  "responseTimeout": 30000,
+  "fileServerFolder": "",
+  "fixturesFolder": "cypress/fixtures",
+  "integrationFolder": "cypress/integration/tests",
+  "screenshotsFolder": "cypress/screenshots",
+  "trashAssetsBeforeRuns": true,
+  "videoCompression": 32,
+  "videoUploadOnPasses": true,
+  "video": true,
+  "videosFolder": "cypress/videos",
+  "chromeWebSecurity": true,
+  "userAgent": null,
+  "blockHosts": null,
+  "modifyObstructiveCode": true,
+  "viewportHeight": 800,
+  "viewportWidth": 1400,
+  "animationDistanceThreshold": 5,
+  "waitForAnimations": true,
+  "nodeVersion": "default",
+  "pluginsFile": "cypress/plugins",
+  "hosts": null,
+  "projectId": null,
+  "testFiles": "**/*.*",
+  "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "reporterEnabled": "mochawesome",
+        "mochawesomeReporterOptions": {
+            "reportDir": "cypress/reports/mocha",
+            "quite": true,
+            "overwrite": false,
+            "html": false,
+            "json": true
+        }
+    }
+}

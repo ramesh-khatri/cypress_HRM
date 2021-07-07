@@ -1,0 +1,8 @@
+{
+    "valid" : {
+      "shift_name" : "Mid",
+      "from" : "08:00",
+      "to" : "18:00",
+      "nameValue1" : "30"
+    }
+}

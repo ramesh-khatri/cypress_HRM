@@ -1,0 +1,10 @@
+{
+    "valid" : {
+      "unit_id" : "1",
+      "name" : "Research ",
+      "description" : "This is the description of the test"
+    },
+    "invalid" : {
+        "max_length": "This is the maximum of 401 length test This is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length tesThis is the maximum of 401 length test This is the maximum length testThis is the maximum length testThis is the maximum length testThis This isnt"
+    }
+}

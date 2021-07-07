@@ -1,0 +1,10 @@
+{
+  "valid" : {
+    "jobtitle" : "QA Engineer",
+    "jobdescription" : "Ensure that quality product is developed",
+    "note" : "This is a test note"
+  },
+  "invalid" : {
+    "note" : "This is the maximum length test This is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length testThis is the maximum length t"
+  }
+}
